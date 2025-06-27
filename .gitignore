@@ -2,6 +2,7 @@ cats_dogs/
 cell_images/
 
 venv
+__pycache__/
 .vscode
 *.h5
 *.joblib

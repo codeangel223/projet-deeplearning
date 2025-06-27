@@ -14,6 +14,7 @@ Voici un doc complet et simple pour démarrer, avec les étapes de clonage, cré
 |---------------- *.jpg
 |---------- Uninfected/
 |---------------- *.jpg
+```
 ````
 
 ---
@@ -35,19 +36,19 @@ python3 -m venv venv
 
 3. **Activer l’environnement virtuel**
 
-* Sous Linux/macOS :
+- Sous Linux/macOS :
 
 ```bash
 source venv/bin/activate
 ```
 
-* Sous Windows (PowerShell) :
+- Sous Windows (PowerShell) :
 
 ```powershell
 .\venv\Scripts\Activate.ps1
 ```
 
-* Sous Windows (cmd) :
+- Sous Windows (cmd) :
 
 ```cmd
 venv\Scripts\activate.bat
@@ -59,5 +60,12 @@ venv\Scripts\activate.bat
 pip install -r requirements.txt
 ```
 
+## Launch Exo1 with streamlit
+
+```bash
+streamlit run src/app/exo1
+```
+
 ---
+
 moussa
