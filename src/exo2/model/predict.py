@@ -29,6 +29,6 @@ def predict_image(img_path: str):
     img_array = process_image(img_path)
     prediction = model.predict(img_array)[0][0]  # probabilité du chien
 
-    label = "Cat" if prediction > 0.5 else "Dog"
+    label = "Dog" if prediction > 0.5 else "Cat"
 
     return label, float(prediction)
