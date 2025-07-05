@@ -68,4 +68,6 @@ streamlit run src/app/exo1
 
 ---
 
+https://model-parasited-uninfected.streamlit.app/
+
 moussa
