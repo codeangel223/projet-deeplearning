@@ -68,7 +68,8 @@ streamlit run src/app/exo1
 
 ---
 
-https://model-parasited-uninfected.streamlit.app/
-https://ctas-dog-classification.streamlit.app/
+[https://model-parasited-uninfected.streamlit.app/](https://projet-deeplearning-z4htdqtv5xlsjutteede7u.streamlit.app/)
+
+[https://ctas-dog-classification.streamlit.app/](https://projet-deeplearning-newewhjnypwc9uwobb75vx.streamlit.app/)
 
 moussa
