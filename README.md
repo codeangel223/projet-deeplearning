@@ -68,12 +68,8 @@ streamlit run src/exo1/__main__.py
 
 ---
 
-https://model-parasited-uninfected.streamlit.app/
+[https://model-parasited-uninfected.onrender.com//](Exo1 - Parasited | Uninfected)
 
-https://ctas-dog-classification.streamlit.app/
+[https://cats-dog-classification.onrender.com//](Exo2 - Cat | Dog)
 
-[https://model-parasited-uninfected.streamlit.app/](https://projet-deeplearning-z4htdqtv5xlsjutteede7u.streamlit.app/)
-
-[https://ctas-dog-classification.streamlit.app/](https://projet-deeplearning-newewhjnypwc9uwobb75vx.streamlit.app/)
-
-moussa
+Jean Fabrice 🤝 Moussa
