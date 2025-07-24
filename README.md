@@ -74,8 +74,8 @@ python src/exo1/__main__.py # or python src/exo2/__main__.py pour demarrer Exo2
 
 ---
 
-[https://model-parasited-uninfected.onrender.com//](Exo1 - Parasited | Uninfected)
+[https://model-parasited-uninfected.onrender.com/](Exo1 - Parasited | Uninfected)
 
-[https://cats-dog-classification.onrender.com//](Exo2 - Cat | Dog)
+[https://cats-dog-classification.onrender.com/](Exo2 - Cat | Dog)
 
 Jean Fabrice 🤝 Moussa
