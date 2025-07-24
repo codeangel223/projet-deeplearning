@@ -63,12 +63,10 @@ pip install -r requirements.txt
 ## Launch Exo1 with streamlit
 
 ```bash
-streamlit run src/app/exo1
+streamlit run src/exo1/__main__.py
 ```
 
 ---
 
 https://model-parasited-uninfected.streamlit.app/
 https://ctas-dog-classification.streamlit.app/
-
-moussa
