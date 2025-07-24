@@ -8,5 +8,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 EXPOSE 7860
-CMD ["streamlit", "run", "src/exo1/__main__.py"]
+CMD ["python", "src/exo1/__main__.py"]
 # docker run build -t model-parasited-unfected .
