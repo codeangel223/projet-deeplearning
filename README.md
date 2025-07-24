@@ -24,8 +24,8 @@ Voici un doc complet et simple pour démarrer, avec les étapes de clonage, cré
 1. **Cloner le dépôt**
 
 ```bash
-git clone https://votre-repo-git-url.git
-cd votre-repo-git-url
+git clone [https://votre-repo-git-url.git](https://github.com/codeangel223/projet-deeplearning)
+cd projet-deeplearning
 ```
 
 2. **Créer un environnement virtuel**
@@ -64,6 +64,12 @@ pip install -r requirements.txt
 
 ```bash
 streamlit run src/exo1/__main__.py
+```
+
+## Launch Exo1 with Gradio
+
+```bash
+python src/exo1/__main__.py # or python src/exo2/__main__.py pour demarrer Exo2
 ```
 
 ---
