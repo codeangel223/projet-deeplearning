@@ -24,7 +24,7 @@ Voici un doc complet et simple pour démarrer, avec les étapes de clonage, cré
 1. **Cloner le dépôt**
 
 ```bash
-git clone [https://votre-repo-git-url.git](https://github.com/codeangel223/projet-deeplearning)
+git clone https://github.com/codeangel223/projet-deeplearning.git
 cd projet-deeplearning
 ```
 
